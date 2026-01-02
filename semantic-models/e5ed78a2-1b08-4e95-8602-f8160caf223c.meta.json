@@ -1,0 +1,23 @@
+{
+  "iri": "e5ed78a2-1b08-4e95-8602-f8160caf223c",
+  "projectIri": "e5ed78a2-1b08-4e95-8602-f8160caf223c",
+  "types": [
+    "http://dataspecer.com/resources/local/semantic-model"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "DCAT-AP-CZ: Specifikace pro vyhlášku č. 360/2023 Sb., o dlouhodobém řízení informačních systémů veřejné správy"
+    },
+    "description": {
+      "en": "Semantic model for the profile"
+    }
+  },
+  "metadata": {
+    "creationDate": "2026-01-02T22:34:27.305Z",
+    "modificationDate": "2026-01-02T22:34:57.350Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2026-01-02T22:35:04.696Z",
+  "_exportedBy": "http://localhost:3100"
+}
